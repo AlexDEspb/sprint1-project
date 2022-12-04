@@ -1,4 +1,4 @@
---------------
+-------
 
 CREATE TABLE if not exists analysis.tmp_rfm_recency (
  user_id INT NOT NULL PRIMARY KEY,
